@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey! It's Ludrein ☁️</h1>
-<h3 align="center"><em>Luds to Udin, I vibe with anything in between!</em></h3>
+<h3 align="center"><em>Luds to Udin, I rock with anything in between!</em></h3>
 
 <h4 align="center">An Information Systems student with a concentration on Data Science. Drawn to the intersection of data, design, and technology, particularly in data analytics, BI, UX/UI, ML/AI, and web development.</h4>
 <h4 align="center">Beyond tech, I've grown a lot through student and volunteer organizations, picking up skills in project management, communication, design thinking, and collaboration along the way.</h4>
