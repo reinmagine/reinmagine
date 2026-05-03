@@ -4,8 +4,9 @@
 
 <h1 align="center">Hey! It's Ludrein 👋🏻</h1>
 
-<h3 align="center">I'm an Information Systems student specializing in Data Science, passionate about turning ideas into reality through design and technology. I enjoy working with tools like Figma, Power BI, and VS Code to transform concepts into real-world projects.</h3>
-<h3 align="center">My passion also extends to UX/UI design, data analytics, machine learning, artificial intelligence, research, and web development.</h3>
+<h3 align="center">Information Systems student with a concentration on Data Science. Drawn to the intersection of data, design, and technology, particularly in data analytics, BI, UX/UI, ML/AI, and web development.</h3>
+<h3 align="center">Beyond tech, I've grown a lot through student and volunteer organizations, picking up skills in project management, communication, design thinking, and collaboration along the way.</h3>
+<h3 align="center">Always open to connecting and learning from people in the tech and data space!</h3>
 
 ---
 
