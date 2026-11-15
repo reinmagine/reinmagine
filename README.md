@@ -34,8 +34,7 @@ I am always open to connecting and learning from people in the tech and data spa
 | **Solutions** | Requirements gathering, technical problem solving |
 | **Data** | Data analytics, business intelligence, ML/AI |
 | **Design** | UX/UI, design thinking |
-| **Development** | Web development, frontend |
-| **Collaboration** | Project management, teamwork |
+| **Development** | Web development, full-stack, automation |
 
 ---
 
